@@ -1,0 +1,15 @@
+.navBarButon {
+    color: red;
+    font-size: 1rem;
+    background-color: transparent;
+    border: 1px solid red ;
+    height: 80px;
+    width: 200px;
+
+    margin: 10px;
+    
+}
+
+.navBarButon :hover {
+    background-color: brown;
+}
